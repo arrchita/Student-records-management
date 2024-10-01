@@ -1,5 +1,4 @@
 Technologies Used
 
-->Java
-->Hibernate ORM
+Java, Hibernate ORM
 
